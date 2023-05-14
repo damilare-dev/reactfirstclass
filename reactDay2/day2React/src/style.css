@@ -66,4 +66,8 @@ h1 {
   #itemDisplayContainer {
     flex: none;
   }
+
+ .product-display{
+    width: 100%;
+ } 
 }
