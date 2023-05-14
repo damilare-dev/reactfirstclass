@@ -21,7 +21,7 @@ function App() {
         <p>
           I'm Damilare, a front-end developer in Nigeria currently working and
           learning about React. I am proficient in other languages of UI
-          components of Web Development like HTML, CSS, Bootsrap and JavaScript.
+          components of Web Development like HTML, CSS, Bootstrap and JavaScript.
           I have a BSc. Degree in Computer Science
         </p>
       </div> <br />
@@ -33,7 +33,7 @@ function App() {
         <ul>
           <li>HTML5</li>
           <li>CSS3</li>
-          <li>Bootsrap</li>
+          <li>Bootstrap</li>
           <li>Tailwind CSS</li>
           <li>Javascript</li>
           <li>React.JS</li>
@@ -71,7 +71,7 @@ function App() {
           <tr>
             <td> OIC HUB </td>
             <td>
-              Transistioned on my journey as a Web Developer at OIC HUB - a
+              Transitioned on my journey as a Web Developer at OIC HUB - a
               Coding Bootcamp to help gain astounding knowledge in Software
               Engineering
             </td>
