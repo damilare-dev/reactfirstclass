@@ -21,29 +21,29 @@ function App() {
     },
 
     {
-      title: "Fragrances",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/5350961/1.jpg?9484",
+      title: "Duct Tape",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/11/5350961/1.jpg?9484",
       price: "$2.67",
       discountPrice: "$20",
     },
 
     {
-      title: "Fragrances",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/5350961/1.jpg?9484",
+      title: "Pouches",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/397518/1.jpg?8885",
       price: "$2.67",
       discountPrice: "$20",
     },
 
     {
-      title: "Fragrances",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/5350961/1.jpg?9484",
+      title: "USB",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/5350961/1.jpg?9484",
       price: "$2.67",
       discountPrice: "$20",
     },
 
     {
-      title: "Fragrances",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/5350961/1.jpg?9484",
+      title: "Wardrobes",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/40/5350961/1.jpg?9484",
       price: "$2.67",
       discountPrice: "$20",
     },
@@ -70,15 +70,15 @@ function App() {
     },
 
     {
-      title: "Phones",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/78/8925522/1.jpg?1774",
+      title: "Rings",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/8925522/1.jpg?1774",
       price: 5.67,
       discountPrice: 3.5,
     },
 
     {
-      title: "Phones",
-      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/78/8925522/1.jpg?1774",
+      title: "Chains",
+      img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/18/8925522/1.jpg?1774",
       price: 5.67,
       discountPrice: 3.5,
     },
@@ -88,7 +88,7 @@ function App() {
       img: "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/251796/1.jpg?8212",
       price: 5.67,
       discountPrice: 3.5,
-    },
+    }
   ];
 
   return (
