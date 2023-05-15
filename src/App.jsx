@@ -1,5 +1,6 @@
 import React from "react";
-import './App.css';
+import './components/includes/index.css';
+import './components/includes/style.css';
 import Products from "./pages/Products";
 import Index from "./pages/Index";
 import ServicesPage from "./pages/ServicesPage";

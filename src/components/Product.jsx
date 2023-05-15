@@ -1,24 +1,21 @@
 function Product(props){
-
-    // let mainStyle={
-    //   width: '31%',
-    //   margin: '2.33%',
-    //   boxSizing: 'border-box'
-    // }
-      return (
-        // <div style={mainStyle}>
-        <div>
-           <h2>{props.title}</h2>
-               <img src={props.img}/>
-               <div>
-               Original Price: {props.price}  <br />
-               Discount Price {props.discount} <br/>
-               </div>
-               <div>
-                <a href=""  className="btn"> Detail</a> 
-                <button className="btn">Buy</button>
-               </div>
-          </div>
-      )
-  }
+  return (
+    <div id="display">
+      <h2>{props.title}</h2>
+      <div>
+        <img src={props.img} alt="Product-Image" />
+      </div>
+      <div>
+        <p> Price: {props.price}</p>
+        <p>Flash Sale: {props.discount}</p>
+      </div>
+      <div>
+        <a href="" className="btn">
+          View{" "}
+        </a>
+        <button className="btn">Buy Now</button>
+      </div>
+    </div>
+  );
+}
   export default Product
